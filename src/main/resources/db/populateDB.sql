@@ -16,4 +16,4 @@ INSERT INTO meals (description, calories, datetime, user_id) VALUES
 ('breakfast',650, TIMESTAMP '2015-09-01 09:00:00', 100000),
 ('dinner',800, TIMESTAMP '2015-09-01 12:40:00', 100000),
 ('breakfast',550, TIMESTAMP '2015-09-01 08:30:00', 100001),
-('dinner',700, TIMESTAMP '2015-09-01 14:00:00', 100001);
+('dinner',700, TIMESTAMP '2015-09-03 14:00:00', 100001);
